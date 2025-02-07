@@ -35,7 +35,7 @@ Driven by curiosity and a commitment to learning, I enjoy solving challenges at 
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 <h2>Here is my RESUME 📃</h2>
-<p>Curious about the nitty-gritty details? Take a peek at my <a href="https://github.com/yourusername/your-repo-name/raw/main/Aditya_java.docx" target="_blank">RESUME</a> to explore my educational journey, work experiences, and the tech adventures I've embarked on.</p>
+<p>Curious about the nitty-gritty details? Take a peek at my <a href="https://github.com/Aditya261099/Aditya261099/blob/main/Aditya_Java.docx" target="_blank">RESUME</a> to explore my educational journey, work experiences, and the tech adventures I've embarked on.</p>
 
 
 <h2>&#x1F91D; Let's Connect and Collaborate!</h2>
