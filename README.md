@@ -1,10 +1,12 @@
-<h1>Hey There 👋, I'm ADITYA SAI</h1> <p>📍BOSTON, MA</p>
+<h1 align="left">Hey There 👋,</h1><h1 align="center"> I'm ADITYA SAI</h1> <p>📍BOSTON, MA</p>
 <p>💻 Fullstack Developer | UI/UX Enthusiast | 💡Problem Solver </p>
-<img align="right" alt="GIF" src="https://github.com/Aditya261099/Aditya261099/blob/main/Aditya_resume.pdf" target="_blank" width="500" height="320" />
+
 
 
 <p> Passionate about building scalable web applications, crafting intuitive UI/UX, and optimizing system performance.</p>
-<h2> About ME! </h2>
+<h2>About ME!</h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" target="_blank" width="500" height="320" />
+
 <p>As a Full Stack Developer with a strong foundation in software engineering, I specialize in designing and developing dynamic, data-driven applications that drive measurable business outcomes. With a 👨‍🎓 Master's degree in Information Technology and experience spanning backend microservices, front-end frameworks, and cloud technologies, I excel at delivering impactful solutions that bridge complex systems and user-friendly interfaces.
 Driven by curiosity and a commitment to learning, I enjoy solving challenges at the intersection of technology and innovation. I'm eager to continue leveraging my skills to build intuitive, high-performance applications that empower businesses to achieve their goals.</p>
 <h2>🚀 Languages and Tools I Use</h2>
