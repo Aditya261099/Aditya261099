@@ -1,4 +1,4 @@
-<h1 align="left">Hey There 👋,</h1><h1 align="center"> I'm ADITYA SAI</h1> <p>📍BOSTON, MA</p>
+<h1 align="left">Hey There 👋,</h1><h1 align="center"> I'm ADITYA SAI</h1> <p>📍BOSTON, MA, USA</p>
 <p>💻 Fullstack Developer | UI/UX Enthusiast | 💡Problem Solver </p>
 
 
