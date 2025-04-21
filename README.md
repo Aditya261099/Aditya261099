@@ -12,7 +12,9 @@
 
 <p>As a Full Stack Developer with a strong foundation in software engineering, I specialize in designing and developing dynamic, data-driven applications that drive measurable business outcomes. With a 👨‍🎓 Master's degree in Information Technology and experience spanning backend microservices, front-end frameworks, and cloud technologies, I excel at delivering impactful solutions that bridge complex systems and user-friendly interfaces.
 Driven by curiosity and a commitment to learning, I enjoy solving challenges at the intersection of technology and innovation. I'm eager to continue leveraging my skills to build intuitive, high-performance applications that empower businesses to achieve their goals.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+
+<h2 class="tools-heading">🚀 Languages and Tools I Use</h2>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -50,3 +52,15 @@ Driven by curiosity and a commitment to learning, I enjoy solving challenges at 
 <p><a target="_blank" href="https://www.linkedin.com/in/aditya-sai-m-04282625/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a></p>
 <p><a target="_blank" href="mailto:adityasai1026@gmail.com"><img src="gmail_icon.png" alt="Email Icon"></a>
 <p>Feel free to explore my coding adventures, and don't hesitate to reach out. The virtual door is always open. Happy coding and exploring! 🌟</p>
+
+<style>
+.tools-heading {
+  margin-top: 30px;
+  border-bottom: none; 
+  padding-bottom: 0;
+  clear: both; 
+  position: relative;
+  z-index: 1; 
+}
+</style>
+
