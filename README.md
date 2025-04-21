@@ -5,7 +5,7 @@
 
 <p> Passionate about building scalable web applications, crafting intuitive UI/UX, and optimizing system performance.</p>
 <h2>About ME!</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/R041T/R041T/main/fullstack.gif" target="_blank" width="500" height="320" />
+<img align="right" alt="GIF" src="20250419_0709_Blend Video_blend_01js6vsz9aeqgsggpckwtt0zsc.mp4" target="_blank" width="500" height="320" />
 
 <p>As a Full Stack Developer with a strong foundation in software engineering, I specialize in designing and developing dynamic, data-driven applications that drive measurable business outcomes. With a 👨‍🎓 Master's degree in Information Technology and experience spanning backend microservices, front-end frameworks, and cloud technologies, I excel at delivering impactful solutions that bridge complex systems and user-friendly interfaces.
 Driven by curiosity and a commitment to learning, I enjoy solving challenges at the intersection of technology and innovation. I'm eager to continue leveraging my skills to build intuitive, high-performance applications that empower businesses to achieve their goals.</p>
