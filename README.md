@@ -19,8 +19,8 @@ Driven by curiosity and a commitment to learning, I enjoy solving challenges at 
 I take pride in writing clean, maintainable code and collaborating closely with cross-functional teams to deliver scalable and secure systems. My passion for technology extends beyond development—I'm also deeply interested in system architecture, DevOps practices, and optimizing development workflows.
 Whether it's enhancing user experiences or improving backend performance, I'm always seeking opportunities to grow, contribute, and make a meaningful impact through technology.
   </p>
-<div style="overflow: hidden;">
-<h2 class="tools-heading">🚀 Languages and Tools I Use</h2>
+
+<h2>🚀 Languages and Tools I Use</h2>
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -50,7 +50,7 @@ Whether it's enhancing user experiences or improving backend performance, I'm al
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-</div>
+
 
 <h2>Here is my RESUME 📃</h2>
 <p>Curious about the nitty-gritty details? Take a peek at my <a href="https://github.com/Aditya261099/Aditya261099/blob/main/Aditya_Resume.pdf" target="_blank">RESUME</a> to explore my educational journey, work experiences, and the tech adventures I've embarked on.</p>
@@ -61,14 +61,5 @@ Whether it's enhancing user experiences or improving backend performance, I'm al
 <p><a target="_blank" href="mailto:adityasai1026@gmail.com"><img src="gmail_icon.png" alt="Email Icon"></a>
 <p>Feel free to explore my coding adventures, and don't hesitate to reach out. The virtual door is always open. Happy coding and exploring! 🌟</p>
 
-<style>
-.tools-heading {
-  margin-top: 30px;
-  border-bottom: none; 
-  padding-bottom: 0;
-  clear: both; 
-  position: relative;
-  z-index: 1; 
-}
-</style>
+
 
