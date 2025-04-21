@@ -7,6 +7,9 @@
 <h2>About ME!</h2>
 <img align="right" alt="GIF" src="20250419_0709_Blend Video_blend_01js6vsz9aeqgsggpckwtt0zsc.gif" target="_blank" width="500" height="420" />
 
+
+
+
 <p>As a Full Stack Developer with a strong foundation in software engineering, I specialize in designing and developing dynamic, data-driven applications that drive measurable business outcomes. With a 👨‍🎓 Master's degree in Information Technology and experience spanning backend microservices, front-end frameworks, and cloud technologies, I excel at delivering impactful solutions that bridge complex systems and user-friendly interfaces.
 Driven by curiosity and a commitment to learning, I enjoy solving challenges at the intersection of technology and innovation. I'm eager to continue leveraging my skills to build intuitive, high-performance applications that empower businesses to achieve their goals.</p>
 <h2>🚀 Languages and Tools I Use</h2>
