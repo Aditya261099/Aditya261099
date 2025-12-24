@@ -53,7 +53,7 @@ Whether it's enhancing user experiences or improving backend performance, I'm al
 
 
 <h2>Here is my RESUME 📃</h2>
-<p>Curious about the nitty-gritty details? Take a peek at my <a href="https://github.com/Aditya261099/Aditya261099/blob/main/Aditya_Resume.pdf" target="_blank">RESUME</a> to explore my educational journey, work experiences, and the tech adventures I've embarked on.</p>
+<p>Curious about the nitty-gritty details? Take a peek at my <a href="https://github.com/Aditya261099/Aditya261099/blob/main/AdityaSai_FSD_Resume.pdf" target="_blank">RESUME</a> to explore my educational journey, work experiences, and the tech adventures I've embarked on.</p>
 
 <h2>&#x1F91D; Let's Connect and Collaborate!</h2>
 <p> Let's connect if you're a fellow coding enthusiast, a potential collaborator, or just someone who enjoys a good tech chat! Find me on:</p>
